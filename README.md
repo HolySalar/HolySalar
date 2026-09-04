@@ -18,13 +18,6 @@
 - 📍 Iran
 - ⚡ Status: `online in the matrix`
 
-### 🎓 Certification
-#### 🌐 International Network Certificate
-- 📜 **دارنده گواهینامه بین‌المللی شبکه**
-- 🏢 Issuer: `Cisco / CompTIA` ← اسم دقیق مدرکت رو اینجا بنویس
-- 📅 Year: `2024`
-- 🆔 Credential ID: `XXXX-XXXX` ← کد مدرک
-- 🔗 Verify: `لینک اعتبارسنجی مدرک رو اینجا بذار`
 
 ![Network](https://img.shields.io/badge/Network-Certified-00ff00?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000&color=003300)
 ![Security](https://img.shields.io/badge/Security-OSINT-00ff00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000&color=003300)
